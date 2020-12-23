@@ -1,6 +1,7 @@
 <template>
- <div>hom</div>
+  
 </template>
+
 
 <script lang="ts">
 import { defineComponent } from 'vue';

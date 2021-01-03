@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noImplicitAny": false,//是否启动ts强制类型
     "target": "esnext",
     "module": "esnext",
     "strict": true,
